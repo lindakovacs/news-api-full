@@ -1,0 +1,3 @@
+[submodule "news-explorer-api"]
+	path = news-explorer-api
+	url = https://github.com/lindakovacs/news-explorer-api.git
